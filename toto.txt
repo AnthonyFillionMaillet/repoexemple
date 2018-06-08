@@ -1,4 +1,5 @@
 Text
 Fichier
 Toto
+Traduction
 Module redirection page
